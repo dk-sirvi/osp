@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: osp
+    runtime: node
+    buildCommand: echo "no build"
+    startCommand: node server.js
+    plan: free
+    envVars:
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: PORT
+        value: 10000
+    disk:
+      name: osp-data
+      mountPath: /opt/render/project/src
+      sizeGB: 1

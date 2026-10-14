@@ -1,0 +1,309 @@
+{
+  "settings": {
+    "name": "Orang Sweet Plazza",
+    "tagline": "Sweets That Spark Joy",
+    "currency": "₹",
+    "phone": "+91 99302 34856",
+    "whatsapp": "919930234856",
+    "email": "",
+    "address": "Antaltica Tower, Palegoan, Ambernath–Badlapur Road, Ambernath, Thane, Maharashtra",
+    "hours": "Open daily · 8:00 AM – 10:00 PM",
+    "mapsUrl": "https://maps.google.com/?q=Antaltica+Tower+Palegoan+Ambernath",
+    "announcement": "🪔 Happy Diwali from Orang Sweet Plazza · Bulk & corporate orders welcome 🪔",
+    "primaryColor": "#E8650A",
+    "popupEnabled": true,
+    "couponCode": "DIWALI10"
+  },
+  "hero": {
+    "eyebrow": "KHUSHI KI TREAT · DIWALI 2026",
+    "title": "Sweets That Spark Joy",
+    "text": "Immerse in the flavours of everyday happiness. Premium mithai, dry-fruit gift boxes and festive hampers from Ambernath.",
+    "btn1Text": "Shop Diwali Gifting",
+    "btn1Link": "#shop",
+    "btn2Text": "Corporate Orders",
+    "btn2Link": "#corporate",
+    "videoUrl": "",
+    "posterUrl": "",
+    "fireworks": true
+  },
+  "categories": [
+    {
+      "name": "Dry Fruit Sweets",
+      "group": "Sweets",
+      "icon": "🍬",
+      "image": "",
+      "home": true
+    },
+    {
+      "name": "Ghee Sweets",
+      "group": "Sweets",
+      "icon": "🟠",
+      "image": "",
+      "home": false
+    },
+    {
+      "name": "Mawa Sweets",
+      "group": "Sweets",
+      "icon": "⚪",
+      "image": "",
+      "home": false
+    },
+    {
+      "name": "Namkeen",
+      "group": "Snacks",
+      "icon": "🥨",
+      "image": "",
+      "home": true
+    },
+    {
+      "name": "Chakli & Chikki",
+      "group": "Snacks",
+      "icon": "🌀",
+      "image": "",
+      "home": false
+    },
+    {
+      "name": "Chips & Sticks",
+      "group": "Snacks",
+      "icon": "🍌",
+      "image": "",
+      "home": false
+    },
+    {
+      "name": "Bakery",
+      "group": "None",
+      "icon": "🍪",
+      "image": "",
+      "home": true
+    },
+    {
+      "name": "Gifting",
+      "group": "None",
+      "icon": "🎁",
+      "image": "",
+      "home": true
+    },
+    {
+      "name": "Dry Fruits",
+      "group": "None",
+      "icon": "🌰",
+      "image": "",
+      "home": false
+    }
+  ],
+  "trust": [
+    {
+      "icon": "🌿",
+      "title": "No Preservatives",
+      "text": "Pure taste, naturally fresh"
+    },
+    {
+      "icon": "⭐",
+      "title": "High Quality Ingredients",
+      "text": "Pure sweets, pure love"
+    },
+    {
+      "icon": "❤️",
+      "title": "Loved by Families",
+      "text": "Trusted across Ambernath"
+    },
+    {
+      "icon": "🎨",
+      "title": "Customizable",
+      "text": "Customize your sweet tooth"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Kaju Katli",
+      "category": "Dry Fruit Sweets",
+      "price": 1200,
+      "description": "Made of pure kaju ",
+      "image": "/uploads/1791917885890-screenshot-2026-10-14-at-12-27-53-am.png",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "p2",
+      "name": "Dry Fruit Barfi",
+      "category": "Dry Fruit Sweets",
+      "price": 950,
+      "description": "Rich barfi loaded with nuts.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p3",
+      "name": "Motichoor Laddoo",
+      "category": "Ghee Sweets",
+      "price": 700,
+      "description": "Festive favourite in pure ghee.",
+      "image": "",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "p4",
+      "name": "Besan Laddu",
+      "category": "Ghee Sweets",
+      "price": 720,
+      "description": "Roasted gram flour laddu.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p5",
+      "name": "Mawa Pedha",
+      "category": "Mawa Sweets",
+      "price": 640,
+      "description": "Made for sharing.",
+      "image": "",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "p6",
+      "name": "Gulab Jamun",
+      "category": "Mawa Sweets",
+      "price": 480,
+      "description": "Soft and syrupy.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p7",
+      "name": "Ratlami Sev",
+      "category": "Namkeen",
+      "price": 75,
+      "description": "Crunchy and spicy.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p8",
+      "name": "Bhakarwadi",
+      "category": "Chakli & Chikki",
+      "price": 90,
+      "description": "Sweet-spicy spiral snack.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p9",
+      "name": "Banana Chips",
+      "category": "Chips & Sticks",
+      "price": 100,
+      "description": "Thin and crisp.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p10",
+      "name": "Chocolate Cookies",
+      "category": "Bakery",
+      "price": 250,
+      "description": "Baked fresh daily.",
+      "image": "",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": "p11",
+      "name": "Bites Box of 8",
+      "category": "Gifting",
+      "price": 390,
+      "description": "Assorted bite-size sweets.",
+      "image": "",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "p12",
+      "name": "Diwali Hamper",
+      "category": "Gifting",
+      "price": 1500,
+      "description": "Festive mithai and dry fruits.",
+      "image": "",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "p13",
+      "name": "Dry Fruits Essence Box",
+      "category": "Dry Fruits",
+      "price": 580,
+      "description": "Premium assorted dry fruits.",
+      "image": "",
+      "featured": false,
+      "available": true
+    }
+  ],
+  "bands": [
+    {
+      "title": "Sweets of Celebration",
+      "text": "Savour the magic of sweetness with artisanal treats crafted to add joy and tradition to your festivities.",
+      "btnText": "Order Now",
+      "btnLink": "#shop",
+      "image": "",
+      "icon": "🍯",
+      "dark": true
+    },
+    {
+      "title": "Gift Your Loved Ones",
+      "text": "Create your own custom festive box for your loved ones, a truly unique and indulgent sweet experience this Diwali.",
+      "btnText": "Gift Today",
+      "btnLink": "#shop",
+      "image": "",
+      "icon": "🎁",
+      "dark": false
+    }
+  ],
+  "story": {
+    "title": "Our Story",
+    "text1": "Orang Sweet Plazza was born from a simple belief — that the finest sweets should be within reach of every family. Nestled in the heart of Ambernath, we have been crafting traditional mithai, namkeen and festive hampers with the same love and care that has been passed down through generations. Every piece of Kaju Katli, every laddoo, every dry-fruit barfi that leaves our kitchen carries the warmth of a home-made recipe and the precision of a master craftsman. We source only the purest ingredients — real ghee, fresh mawa, premium dry fruits — because we believe your family deserves nothing less.",
+    "text2": "Over the years, Orang Sweet Plazza has grown from a neighbourhood favourite into the go-to destination for corporate gifting, wedding hampers and Diwali celebrations across Thane and beyond. Yet our promise remains unchanged: every sweet we make is free from preservatives, crafted fresh daily, and packed with the kind of flavour that turns an ordinary moment into a cherished memory. Whether you are picking up a box for a festival, sending a hamper to a client, or simply treating yourself after a long day — we are here to make it sweeter.",
+    "image": ""
+  },
+  "corporate": {
+    "title": "Corporate & Bulk Gifting",
+    "text": "Diwali hampers for teams, clients and weddings. Tell us your quantity and budget.",
+    "btnText": "Discuss a bulk order"
+  },
+  "outlets": [
+    {
+      "name": "Ambernath Store",
+      "address": "Antaltica Tower, Palegoan, Ambernath–Badlapur Road, Ambernath, Thane",
+      "hours": "Open daily · 8:00 AM – 10:00 PM",
+      "phone": "+91 99302 34856",
+      "mapUrl": "https://maps.google.com/?q=Antaltica+Tower+Palegoan+Ambernath"
+    }
+  ],
+  "footer": {
+    "about": "Thoughtful gifting, timeless mithai and a little more sweetness in every day.",
+    "links": [
+      {
+        "label": "Terms and Conditions",
+        "url": "#"
+      },
+      {
+        "label": "Shipping Policy",
+        "url": "#"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "#"
+      },
+      {
+        "label": "Cancellation Policy",
+        "url": "#"
+      }
+    ]
+  }
+}

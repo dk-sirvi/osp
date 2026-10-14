@@ -1,0 +1,8 @@
+{
+  "name": "orang-sweet-plazza",
+  "version": "1.0.0",
+  "description": "Orang Sweet Plazza website with admin portal (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
