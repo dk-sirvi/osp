@@ -1,4 +1,5 @@
 node_modules/
-*.log
+.env
+clear
+clear.pub
 .DS_Store
-data/site.backup.json
